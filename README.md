@@ -7,13 +7,11 @@
 
 <p align="center">
   <samp>
-    <a href="">notes</a> |
-    <a href="">study</a> |
-    <a href="">leetcode</a>
+    <a href="https://www.wolai.com/dec-seven/wyPFvMTwAcD9muc6RMfThB">notes</a> |
+    <a href="https://github.com/dec-seven/fe-study">study</a> |
+    <a href="https://leetcode.cn/u/dec-seven/">leetcode</a>
   </samp>
 </p>
-
-<br>
 <p align="center">
   <samp>
     <span>热爱生活，奔赴山海.</span>
