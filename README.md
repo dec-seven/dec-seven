@@ -1,4 +1,25 @@
-### Hi there 👋
+<p align="center">
+  <samp>
+    <span>👋 Hi，我是初柒</span>
+    <span>一枚正在修炼的前端小法师</span>
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    <a href="">notes</a> |
+    <a href="">study</a> |
+    <a href="">leetcode</a>
+  </samp>
+</p>
+
+<br>
+<p align="center">
+  <samp>
+    <span>热爱生活，奔赴山海.</span>
+  </samp>
+</p>
+<br>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
