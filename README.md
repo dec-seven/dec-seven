@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     <span><strong>👋 Hi，我是初柒</strong>,</span>
-    <span>一枚正在修炼的前端小法师.</span>
+    <span>一枚正在修炼Agent的小法师.</span>
   </samp>
 </p>
 
