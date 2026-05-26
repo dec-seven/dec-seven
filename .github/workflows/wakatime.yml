@@ -9,13 +9,12 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     permissions:
-      contents: write    # ⬅️ 关键：授予写入仓库内容的权限
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_UPDATED_DATE: 'False'
           SHOW_PROFILE_VIEWS: 'False'
           COMMIT_BY_ME: 'False'
