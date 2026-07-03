@@ -20,15 +20,15 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C361%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C366%20hrs%2048%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-🌆 Daytime                30 commits          ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-🌃 Evening                69 commits          ███████████████░░░░░░░░░░   61.61 % 
-🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+🌞 Morning                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+🌆 Daytime                30 commits          ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+🌃 Evening                71 commits          ████████████████░░░░░░░░░   62.28 % 
+🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
@@ -36,11 +36,11 @@
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 47 mins      █████████░░░░░░░░░░░░░░░░   34.32 % 
-JavaScript               4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Vue                      4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-HTML                     3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Python                   3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Other                    13 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   36.41 % 
+JavaScript               5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Vue                      4 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+HTML                     3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Python                   3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
 ```
 
 
