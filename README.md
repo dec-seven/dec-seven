@@ -20,8 +20,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C486%20hrs%2011%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -36,11 +34,11 @@
 
 ```text
 💬 Programming Languages: 
-Vue                      11 hrs 58 mins      █████████░░░░░░░░░░░░░░░░   37.72 % 
-JavaScript               7 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-Markdown                 7 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-HTML                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Other                    1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Markdown                 12 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   34.56 % 
+Vue                      10 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   30.20 % 
+JavaScript               7 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Other                    2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+HTML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 
 
