@@ -20,9 +20,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-894%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-250%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-254%20hrs%2014%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -38,36 +38,36 @@
 
 ```text
 💬 Programming Languages: 
-Vue                      16 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   36.06 % 
-Markdown                 12 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-JavaScript               5 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-TypeScript               4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Python                   3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Vue                      19 hrs 36 mins      ███████████░░░░░░░░░░░░░░   45.19 % 
+Markdown                 9 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+JavaScript               5 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Python                   2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+TypeScript               2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 26 mins (82.7%)
+⏱ AI Coding Time: 32 hrs 51 mins (75.73%)
 
-✍️ 42,284 lines written by AI, 813 lines written by hand (98.11% AI-written)
+✍️ 26,028 lines written by AI, 934 lines written by hand (96.54% AI-written)
 
-🔤 1,009,102,541 Input Tokens, 3,355,810 Output Tokens
+🔤 769,059,496 Input Tokens, 2,475,926 Output Tokens
 
-💵 $3983.79 Estimated AI Cost This Week
+💵 $3042.67 Estimated AI Cost This Week
 
-🧠 116 AI Sessions, 699 AI Prompts
+🧠 86 AI Sessions, 551 AI Prompts
 
-GPT                      34,362 lines        ██████████████████████░░░   89.09 % 
-Glm                      3,774 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Claude-Code              434 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+GPT                      21,119 lines        ████████████████████████░   96.81 % 
+Claude-Code              442 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Glm                      254 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.11% of written lines came from AI
-📚 Verbose Prompter — average 7,943 characters per prompt
+🤖 AI-Driven — 96.54% of written lines came from AI
+📚 Verbose Prompter — average 7,724 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 7.47% of changed lines were hand-edited
+🚀 High AI Trust — 9.11% of changed lines were hand-edited
 ```
 
 
