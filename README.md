@@ -38,13 +38,33 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   32.26 % 
+Vue                      1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+Markdown                 50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+Other                    41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 13 mins (79.47%)
+
+✍️ 0 lines written by AI, 3,739 lines written by hand (0.0% AI-written)
+
+🔤 2,067,340 Input Tokens, 130,839 Output Tokens
+
+💵 $33.39 Estimated AI Cost This Week
+
+🧠 19 AI Sessions, 69 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 1,198 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
