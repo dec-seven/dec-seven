@@ -20,9 +20,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C285%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C293%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-582%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-589%20hrs%2042%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -38,36 +38,36 @@
 
 ```text
 💬 Programming Languages: 
-Vue                      16 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   41.38 % 
-JavaScript               14 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   37.14 % 
-Markdown                 2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Other                    2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-CSS                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+JavaScript               16 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   40.39 % 
+Vue                      12 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   30.72 % 
+Other                    5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Markdown                 2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 26 mins (80.76%)
+⏱ AI Coding Time: 36 hrs 31 mins (89.55%)
 
-✍️ 12,000 lines written by AI, 3,450 lines written by hand (77.67% AI-written)
+✍️ 15,134 lines written by AI, 1,198 lines written by hand (92.66% AI-written)
 
-🔤 18,602,268 Input Tokens, 2,192,880 Output Tokens
+🔤 21,133,900 Input Tokens, 2,930,980 Output Tokens
 
-💵 $193.46 Estimated AI Cost This Week
+💵 $220.75 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 373 AI Prompts
+🧠 60 AI Sessions, 435 AI Prompts
 
-GPT                      12,335 lines        █████████████████████████   99.89 % 
-Vscode                   14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+GPT                      15,497 lines        █████████████████████████   99.91 % 
+Vscode                   14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.67% of written lines came from AI
-📄 Detailed Prompter — average 563 characters per prompt
+🤖 AI-Driven — 92.66% of written lines came from AI
+📄 Detailed Prompter — average 522 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 44.39% of changed lines were hand-edited
+🚀 High AI Trust — 11.1% of changed lines were hand-edited
 ```
 
 
